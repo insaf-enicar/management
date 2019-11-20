@@ -1,0 +1,2 @@
+# management
+management of school 
